@@ -1,0 +1,191 @@
+{
+	"glumci": {
+		"110": 
+		{
+			"ime": "Blanka",
+			"prezime": "Bart"
+		},
+		"120": 
+		{
+			"ime": "Igor",
+			"prezime": "Golub"
+		},
+		"130": 
+		{
+			"ime": "Vlasta",
+			"prezime": "Golub"
+		},
+		"140": 
+		{
+			"ime": "Goran",
+			"prezime": "Koši"
+		},
+		"150": 
+		{
+			"ime": "Snježana",
+			"prezime": "Lančić"
+		},
+		"160": 
+		{
+			"ime": "Sara",
+			"prezime": "Lustig"
+		},
+		"170": 
+		{
+			"ime": "Mijo",
+			"prezime": "Pavelko"
+		},
+		"180": 
+		{
+			"ime": "Antun",
+			"prezime": "Vrbenski"
+		},
+		"190": 
+		{
+			"ime": "Goran",
+			"prezime": "Vučko"
+		},
+		"200": 
+		{
+			"ime": "Draško",
+			"prezime": "Zidar"
+		}
+	},
+
+	"predstave":
+	{
+		"2110":
+		{
+			"naziv": "Vaclav Havel AUDIJENCIJA",
+			"glumci": [140, 200]
+		},
+		"2120":
+		{
+			"naziv": "Dubravko Habek BIJELA KUGA",
+			"glumci": [110, 170, 200]
+		},
+		"2130":
+		{
+			"naziv": "Hugo Von Hoffmansthal SVATKOVIĆ",
+			"glumci": [110, 120, 130, 140, 150, 160, 170, 200]
+		},
+		"2140":
+		{
+			"naziv": "Anton Pavlovič Čehov KAŠTANKA",
+			"glumci": [150, 160, 170]
+		},
+		"2150":
+		{
+			"naziv": "Krešimir Jelić UNUK IZMEĐU DVIJE VATRE",
+			"glumci": [120, 130, 130]
+		},
+		"2160":
+		{
+			"naziv": "David Paquet 2:14 h",
+			"glumci": [140, 160, 170, 200]
+		},
+		"2170":
+		{
+			"naziv": "SHAKESPEARE PIR",
+			"glumci": [170, 180, 200]
+		},
+		"2180":
+		{
+			"naziv": "Fran Galović PRED SMRT",
+			"glumci": [120, 130, 140, 170, 180, 200]
+		},
+		"2190":
+		{
+			"naziv": "Fran Galović PRED SMRT",
+			"glumci": [110, 140, 170, 180]
+		}
+	},
+	"prikazivanja":
+	{
+		"1":
+		{
+			"predstava": "2110",
+			"pocetak_datum": "16.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"2":
+		{
+			"predstava": "2110",
+			"pocetak_datum": "17.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"3":
+		{
+			"predstava": "2120",
+			"pocetak_datum": "16.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"4":
+		{
+			"predstava": "2130",
+			"pocetak_datum": "17.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"5":
+		{
+			"predstava": "2130",
+			"pocetak_datum": "18.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"6":
+		{
+			"predstava": "2140",
+			"pocetak_datum": "18.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"7":
+		{
+			"predstava": "2140",
+			"pocetak_datum": "23.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"8":
+		{
+			"predstava": "2150",
+			"pocetak_datum": "23.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"9":
+		{
+			"predstava": "2160",
+			"pocetak_datum": "24.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"10":
+		{
+			"predstava": "2170",
+			"pocetak_datum": "24.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"11":
+		{
+			"predstava": "2180",
+			"pocetak_datum": "25.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"12":
+		{
+			"predstava": "2190",
+			"pocetak_datum": "03.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"13":
+		{
+			"predstava": "2190",
+			"pocetak_datum": "04.02.2018",
+			"pocetak_vrijeme": "19:00"
+		},
+		"14":
+		{
+			"predstava": "2180",
+			"pocetak_datum": "04.02.2018",
+			"pocetak_vrijeme": "19:00"
+		}
+
+	}
+}
