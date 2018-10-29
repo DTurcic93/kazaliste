@@ -1,10 +1,10 @@
-var config = {
-    apiKey: "AIzaSyAg7O5ET6EtXGp8hOcKcMV3rNphGSCsMg0",
-    authDomain: "ansambl-6fe56.firebaseapp.com",
-    databaseURL: "https://ansambl-6fe56.firebaseio.com",
-    projectId: "ansambl-6fe56",
-    storageBucket: "ansambl-6fe56.appspot.com",
-    messagingSenderId: "961055330354"
+ var config = {
+    apiKey: "AIzaSyDMHBC8K_555_1j5WBi1QJ6Ehv3hu4c9IU",
+    authDomain: "kazaliste-6e2e1.firebaseapp.com",
+    databaseURL: "https://kazaliste-6e2e1.firebaseio.com",
+    projectId: "kazaliste-6e2e1",
+    storageBucket: "",
+    messagingSenderId: "1025212501760"
   };
   firebase.initializeApp(config);
 
